@@ -1,0 +1,12 @@
+{
+  "name": "estilosglobais",
+  "displayName": "estilosglobais",
+  "expo": {
+    "name": "estilosglobais",
+    "slug": "estilosglobais",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
